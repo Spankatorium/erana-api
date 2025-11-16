@@ -1,0 +1,25 @@
+{
+  "name": "erana-api",
+  "version": "0.0.1",
+  "description": "REST backend for the Erana bot library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spankatorium/erana-api.git"
+  },
+  "keywords": [
+    "erana",
+    "bot",
+    "api",
+    "rest"
+  ],
+  "author": "HappySpanker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spankatorium/erana-api/issues"
+  },
+  "homepage": "https://github.com/Spankatorium/erana-api#readme"
+}
