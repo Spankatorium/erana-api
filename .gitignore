@@ -139,3 +139,6 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vscode/
 .idea/
+
+# Local docker build staging
+.docker-tmp
